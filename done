@@ -14,21 +14,43 @@
 </head>
 <body style="background-color:lightgreen;">
 
-<h1 style="color:blue;">I GOT SUPPLIES</h1>
-<h2 style="color:orange;">WINNER WINNER CHICKEN DINNER</h2>
-<h3 style="color:yellow;">MARKED LOCATION</h3>
-<h4 style="color:purple;">THE PING MATTERS</h4>
-<h5 style="color:voilet;">SURVIVE .DOMINATE .WIN</h5>
-<h6 style="color:indigo;">TEST YOUR SKILL .REIGN SUPREME</h6>
+
+<!--this includes color ,font family,font size ,text alignment ,bold ,italic ,underline ,emphasised text,marked text-->
+
+<h1 style="color:blue;font-family:verdona;font-size: 250%;text-align: center;"><b>I GOT SUPPLIES</b></h1>
+<h2 style="color:orange;font-family: 'Times New Roman', Times, serif;font-size:200%;text-align: center;"><i><mark>WINNER WINNER CHICKEN DINNER</mark></i></h2>
+<h3 style="color:yellow;font-family: sans-serif;font-size: 180%;text-align: center;"><ins>MARKED LOCATION</ins></h3>
+<h4 style="color:purple;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 160%;text-align: left;"><em>THE PING MATTERS</em></h4>
+<h5 style="color:rgb(rgba(10, 161, 249, 0.559), green, blue);font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size:150%;text-align: justify;"><mark>SURVIVE .DOMINATE .WIN</mark></h5>
+<h6 style="color:indigo;font-family: fantasy;font-size:120%;text-align: start;"><ins>TEST YOUR SKILL .REIGN SUPREME</ins></h6>
 
 
-<p><h1> Georgopol (medium-high risk) ...
+<p style="color: darkorange;font-family: cursive;font-size:220%;text-align: start;"><h1> Georgopol (medium-high risk) ...
 School, Rozhok (high risk) ...
 Quarry (medium risk) ...
 Sosnova Military Base (high risk) ...
 Stalber (low risk) ...
 The Bunkers (high risk) ...
 Novorepnoye (high risk)</h1></p>
+
+<p style="color: aquamarine;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size:180%;text-align: left;"><h2>this is to tell you that i was here</h2></p>
+<p style="color: lavenderblush;font-family: sans-serif;font-size: 155%;text-align: justify;"><h2>this is to tell you that this is my first programmming</h2></p>
+<p style="color: aliceblue;font-family: monospace;text-align: start;"><h2>just awesome</h2></p>
+
+<!--This is a subscript and supeerscriprt-->
+<p><h1>a<sub>x</sub></h1></p>
+<p><h1>ujjwal singh<sub>pundir</sub></h1></p>
+<p><h1>2<sub>10</sub></h1></p>
+<p><h1>3<sub>98</sub></h1></p>
+
+<p><h1>a<sup>x</sup></h1></p>
+<p><h1>ujjwal singh<sup>pundir</sup></h1></p>
+<p><h1>2<sup>10</sup></h1></p>
+
+
+<!--this text wil;l be written from right to left and vice versa  {<bdo dir="rtl"> this text will be written from right to left}-->
+<bdo dir="rtl">UJJWAL SINGH PUNDIR</bdo><br><br><br>
+<bdo dir="ltr">UJJWAL SINGH PUNDIR</bdo><br> 
 
 
 <a href="https://github.com/ujjwalsinghpundir" target="_blank">CLICK HERE TO GO TO MY GITHUB ACCOUNT</a><br><br>

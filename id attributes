@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+
+#p01 {    
+color: blue;
+ } 
+
+#P02 {
+COLOR: GREEN;
+}
+
+#P03 {
+COLOR: ORANGE;
+}
+
+#P04 {
+COLOR: YELLOW;
+}
+ 
+P
+{ 
+color:red;
+}
+
+</style>
+</head>
+<body>
+
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+
+<p id="p01">KEMCHO MOTA BHAI</p>
+<p id="p02">KYA BOLTI PUBLIC</P>
+<P id="p03">KYA HAL HAI DEVIYO OR SAJ JNAKO KAY</P> 
+<p id="p04">IT WAS WRITTEN TO GIVE A SMILE ON YOUR FACE</P>
+
+</body>
+</html>

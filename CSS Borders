@@ -1,4 +1,4 @@
-</--this contains CSS Borders-->
+</--this contains CSS Borders AND background image-->
 
 <!DOCTYPE html>
 
@@ -14,8 +14,15 @@ p{
  border: 7px solid powderblue;
  padding:30px;
  margin: 50px;
+ color: red;font size:100%;
 }
 
+</--background image-->
+
+body{
+     background-image:url("ujjwal.gif");
+     background-color:#cccccc;
+  }
 
 </style>
 

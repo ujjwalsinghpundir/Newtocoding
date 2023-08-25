@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+
+P.error{
+color: red;
+}
+
+</style>
+</head>
+
+<body>
+
+<p>This is a paragraph.</p> 
+<p>This is a paragráph.</p>
+<p class="error"'>l am different.</p>
+<p>This is a pařagraph.</p>
+<p class="error">l am different too.</p>
+</body>
+</html>

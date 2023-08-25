@@ -15,7 +15,7 @@
 <body style="background-color:lightgreen;">
 
 
-<!--this includes color ,font family,font size ,text alignment ,bold ,italic ,underline ,emphasised text,marked text-->
+<!--this includes color ,font family,font size ,text alignment ,bold ,italic ,underline ,emphasised text,marked text,inline css-->
 
 <h1 style="color:blue;font-family:verdona;font-size: 250%;text-align: center;"><b>I GOT SUPPLIES</b></h1>
 <h2 style="color:orange;font-family: 'Times New Roman', Times, serif;font-size:200%;text-align: center;"><i><mark>WINNER WINNER CHICKEN DINNER</mark></i></h2>

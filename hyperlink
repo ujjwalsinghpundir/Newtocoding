@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link{
+      color: green;
+      background-color: transparent;
+      text-decoration: none;
+}
+a:visited {
+      color: orange:
+      background-color: transparent;
+      text-decoration: none;
+} 
+
+a:hover{
+     Color:red;
+     background color: transparent;
+     text-decoration: underline;
+}
+
+a:active {
+       color: yellow;
+       background color: transparent;
+       text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<p>you can change the defaultcolor of links</p>
+
+<a href="https://www.youtube.com/results?search_query=bhuvi+chaudhary." target"_blank">my you tube channel link</a>
+
+</body>
+</html>
